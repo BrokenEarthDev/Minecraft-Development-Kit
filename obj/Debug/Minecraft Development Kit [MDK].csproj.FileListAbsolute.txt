@@ -1,0 +1,11 @@
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\bin\Debug\Minecraft Development Kit [MDK].exe.config
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\bin\Debug\Minecraft Development Kit [MDK].exe
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\bin\Debug\Minecraft Development Kit [MDK].pdb
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\obj\Debug\Minecraft Development Kit [MDK].csprojAssemblyReference.cache
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\obj\Debug\Minecraft_Development_Kit__MDK_.Properties.Resources.resources
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\obj\Debug\Minecraft Development Kit [MDK].csproj.GenerateResource.cache
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\obj\Debug\Minecraft Development Kit [MDK].csproj.CoreCompileInputs.cache
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\obj\Debug\Minecraft Development Kit [MDK].exe
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\obj\Debug\Minecraft Development Kit [MDK].pdb
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\obj\Debug\Minecraft_Development_Kit__MDK_.Form1.resources
+C:\Users\broke\source\repos\Minecraft Development Kit [MDK]\Minecraft Development Kit [MDK]\obj\Debug\Minecraft_Development_Kit__MDK_.Form2.resources
